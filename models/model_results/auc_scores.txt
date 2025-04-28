@@ -1,0 +1,10 @@
+AUC (Macro-average): 0.9602
+AUC for class AF: 0.9848
+AUC for class IAVB: 0.9908
+AUC for class LBBB: 0.9759
+AUC for class PAC: 0.9459
+AUC for class PVC: 0.9818
+AUC for class RBBB: 0.9787
+AUC for class SNR: 0.9830
+AUC for class STD: 0.9404
+AUC for class STE: 0.8605
